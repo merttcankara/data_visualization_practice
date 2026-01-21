@@ -4,7 +4,7 @@ This notebook is a hands-on data visualization practice project focusing on buil
 
 ## What’s inside
 
-✅ **Matplotlib (static visualization)**
+**Matplotlib (static visualization)**
 - Line charts to explore GDP trends (World Bank style data)
 - Highlighting patterns around periods like the **2008 crisis**
 - Peak detection on time series using **SciPy (`find_peaks`)**
